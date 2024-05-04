@@ -41,4 +41,4 @@ Once you have created an app on twitter and installed all the dependencies by ru
 
 ## Authors
 
-Mourya Sai Charan Reddy Kypa
+Sai Saketh Manne
